@@ -1,7 +1,7 @@
 # AutoHotKeyScripts
 Just some scripts for personal use
 
-Image Scan
+#Image Scan
 
 This script will scan the screen for a copy of whatever image you provide. Save you image to scan for as "Scan1.bmp" in the same directory as the .exe. I recommend you use a 24bit bitmap file.
 
@@ -15,7 +15,8 @@ Continuously search all screens for all instances of this copy and click it twic
 Sleep for 30 seconds if search failed, sleep for 1 second if search succeeded.
 Note: Clicking will click the top-left of your provided image, so make sure the clickable portion of the button is still the top-leftmost pixel. This script needs to launch as admin to execute.
 
-AutoSynthesis
+#AutoSynthesis
+
 This script is far more complicated. It needs the following images with the same setup as Image Scan.
 Arrow.bmp, Bolt.bmp, Paper.bmp, Oven.bmp, Menu.bmp, Divide.bmp, Okay.bmp, and Synthesis.bmp
 
